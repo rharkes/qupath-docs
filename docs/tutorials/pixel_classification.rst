@@ -232,7 +232,7 @@ For example, depending upon the input images, a reasonable expectation for a 'tu
 A very unreasonable expectation is that it might be able to reliably distinguish benign from malignant in a tricky case.
 
 With that in mind, you may often need to apply your superior knowledge to annotate relevant regions of interest that contain only tissue components that can be reliably distinguished by the classifier.
-You can then user the classifier to make fine-grained measurements within these regions -- but not depend upon it to make decisions that take years of training and experience.
+You can then use the classifier to make fine-grained measurements within these regions -- but not depend upon it to make decisions that take years of training and experience.
 
 .. figure:: images/pixel_limited.jpg
   :class: shadow-image
